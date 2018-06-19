@@ -1,3 +1,4 @@
 test2 file is good
 modified test2.txt in mybranch in local
 mydified test2.txt again in mybranch in local again
+mydified test2.txt in jin_from_mybranch 
